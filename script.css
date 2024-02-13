@@ -1,0 +1,33 @@
+body{
+  background: rgb(241,29,5);
+background: radial-gradient(circle, rgba(241,29,5,1) 0%, rgba(250,250,250,0.6859536050748425) 100%);
+}
+
+.Love {
+  text-align: center;
+  margin: 0;
+  position: relative;
+  top: 60%;
+  left: 40%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.Hate{
+  margin: 0;
+  position: relative;
+  top: 60%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+ }
+
+
+.dancing-script-h1 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+
+}
